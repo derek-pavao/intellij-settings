@@ -61,6 +61,10 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
   </action>
