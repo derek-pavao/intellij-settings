@@ -68,7 +68,6 @@
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="PreviousTab">
