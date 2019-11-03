@@ -11,11 +11,4 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
-  <component name="XmlEditorOptions">
-    <option name="autoCloseTag" value="false" />
-    <option name="automaticallyInsertClosingTag" value="false" />
-    <option name="insertQuotesForAttributeValue" value="false" />
-    <option name="showCssInlineColorPreview" value="true" />
-    <option name="syncTagEditing" value="false" />
-  </component>
 </application>
