@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
     <option name="userId" value="-6eaa3b37:16dfb8c8887:-8000" />
     <option name="version" value="4.5.2" />
   </component>
