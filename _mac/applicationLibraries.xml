@@ -1,10 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/mocha" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="activesupport (v4.2.7.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/activesupport-4.2.7.1/lib" />
@@ -54,19 +49,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/amq-protocol-2.0.1/profiling" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/amq-protocol-2.0.1/benchmarks" />
       </SOURCES>
-    </library>
-    <library name="angularjs-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="ast (v2.3.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
@@ -166,14 +148,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/childprocess-0.5.9/lib" />
       </SOURCES>
-    </library>
-    <library name="chrome-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chrome_chrome-app.d.ts" />
-        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chrome_chrome.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
@@ -561,13 +535,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
-    <library name="jasmine-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="java-properties (v0.2.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/java-properties-0.2.0/lib" />
@@ -633,13 +600,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/json_pure-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/json_pure-1.8.3/diagrams" />
       </SOURCES>
-    </library>
-    <library name="karma-jasmine-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_karma-jasmine_index.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="little-plugger (v1.1.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
@@ -1160,13 +1120,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sinatra-1.4.7/lib" />
       </SOURCES>
-    </library>
-    <library name="sinon-chai-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_sinon-chai_index.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="test-unit (v3.0.8, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
