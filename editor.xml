@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
@@ -6,10 +10,6 @@
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />
